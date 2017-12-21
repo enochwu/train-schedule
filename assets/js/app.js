@@ -66,6 +66,8 @@ $("#add-train").on("click", function() {
 
     });
 
+    $('.form-control').val('');
+
   } else {
     alert('Please fill out all the fields before submitting.')
   }
