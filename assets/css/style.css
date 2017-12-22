@@ -1,0 +1,7 @@
+.form-group {
+  margin-bottom: 35px;
+}
+
+#first-train, #frequency {
+  margin: 0px;
+}
