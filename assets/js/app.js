@@ -35,7 +35,7 @@ $("#add-train").on("click", function() {
     $('.form-control').val('');
 
   } else {
-    alert('Please fill out all the fields before submitting.')
+    alert('Please fill out all the fields before submitting. In addition, check to make sure your time is formatted to hh:ss and that the train frequency is only a numberical value')
   }
 
 });
